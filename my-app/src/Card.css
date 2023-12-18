@@ -1,0 +1,28 @@
+.img-card{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 300px;
+    width: 300px; 
+     border-radius:8%;
+     background-color: #9acd32;
+     align-items: center;
+
+}
+.img-card img{
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+}
+#text{
+    text-align: center;
+
+}#text{
+    text-align: center;
+
+}
+
+
+/* .img-card img:hover{
+    transition:  all 8s ease-out;
+    transform: rotate(360deg); */

@@ -1,0 +1,23 @@
+.sign{
+    height: 100%vh;
+    width: 100%vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center; 
+   padding: auto;
+   margin: auto; 
+    height: 300px;
+    width: 450px;
+    background-color:yellowgreen;
+    border-radius: 2px solid black;
+    box-shadow: inset;
+}
+#signup{
+          display: contents;
+          align-content: center;
+            
+}

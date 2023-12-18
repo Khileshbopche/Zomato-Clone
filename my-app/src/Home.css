@@ -1,0 +1,74 @@
+.parent img{
+    height: 600px;
+    width: 100%;
+}
+
+.Nav{
+     width: 98%;
+       position: absolute;
+       top: 0px;
+       display: flex;
+      justify-content: space-between;
+    
+}
+
+.left-nav{
+    width: 200px;
+    display: flex;
+    justify-content: space-between;
+}
+.right-nav{
+    width: 350px;
+    display: flex;
+    justify-content: space-around;
+}
+.fnt{
+    font-size: 20px;
+    color:white;
+
+}
+.fnt:hover{
+    
+    color: white;
+    background-color: black;
+    border: 2px solid red;
+    
+}
+.heading-zomato{
+    position: absolute;
+    margin: 0px 50%;
+    top: 14%;
+    transform: translate(-50% ,50%);
+}
+.heading-zomato img{
+    height: 100px;
+    width: 250px;
+}
+
+.input-search{
+    width: 100vw;
+    position:absolute;
+    display: flex;
+    flex-direction: column;
+    justify-items: center;
+    align-items: center;
+    margin: 0px 50%;
+    top: 40%;
+   transform: translate(-50% ,50%);
+  
+}
+.code{
+    color:white;
+}
+.head{
+    text-align: center;
+}
+.card1{
+    width: 351px;
+    height: 55px;
+    background-color: blueviolet;
+}
+#text{
+    text-align: center;
+
+}
